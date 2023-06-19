@@ -2,7 +2,7 @@
 
 # Jogo da adivinhação
 
-Aprenda a trabalhar com Widgets na Unreal 5.2 criando um incrível jogo no qual o objetivo é descobrir qual número o computador pensou. Durante o jogo o jogador terá 3 tentativas para adivinhar o número, cada tentativa errada o computador da uma dica para o usuário.
+Aprenda a trabalhar com Widgets na Unreal 5.2, criando um incrível jogo no qual o objetivo é descobrir o número em que o computador está pensando. Durante o jogo, o jogador terá três tentativas para adivinhar o número. A cada tentativa errada, o computador fornecerá uma dica útil ao usuário, auxiliando na busca pela resposta correta.
 
 🚀 Playlist do curso: 
 
